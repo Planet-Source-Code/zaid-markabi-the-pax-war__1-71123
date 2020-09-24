@@ -1,0 +1,20 @@
+
+To play this game , You should use these files
+
+[ TrueVision3D ActiveX SDK 6.2 ]
+[ TrueVision3D Media ActiveX 6.1 ]
+
+I put them with the game ,
+
+and to reg these file ,you should run [ reg.bat ] file .
+you will have this msg ( Done ! )
+now , open the game code and run it !!
+
+
+thanks for playing my game,
+
+Email : zaidmarkabi@yahoo.com
+I hope to hear from you soon,
+
+
+Zaid Markabi.
